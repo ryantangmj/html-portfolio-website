@@ -227,6 +227,10 @@ section {
   position: relative;
 }
 
+#about .title {
+  margin-bottom: 2rem;
+}
+
 .about-containers {
   gap: 2rem;
   margin-bottom: 2rem;
@@ -250,7 +254,24 @@ section {
 .arrow {
   position: absolute;
   right: -5rem;
-  bottom: 2.5rem;
+  bottom: 1rem;
+}
+
+.details-container h3 {
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.details-container-img {
+  text-align: center;
+}
+
+.experience-details {
+  margin-bottom: 0.5rem;
+}
+
+.experience-details ul ul {
+  margin-left: 20px;
 }
 
 .details-container {
@@ -260,7 +281,6 @@ section {
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
-  text-align: center;
 }
 
 .section-container {
