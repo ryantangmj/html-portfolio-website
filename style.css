@@ -392,10 +392,22 @@ section {
   background: rgb(250, 250, 250);
 }
 
+.article-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.experience-sub-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .project-img {
   border-radius: 2rem;
-  width: 90%;
-  height: 90%;
+  width: 30rem;
+  height: 30rem;
 }
 
 .project-title {
