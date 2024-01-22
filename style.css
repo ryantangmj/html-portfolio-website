@@ -420,6 +420,12 @@ section {
   border-color: rgb(163, 163, 163);
 }
 
+.project-btn:hover {
+  color: white;
+  background-color: rgb(53, 53, 53);
+  border-color: rgb(163, 163, 163);
+}
+
 #contact {
   display: flex;
   justify-content: center;
