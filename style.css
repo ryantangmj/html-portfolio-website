@@ -265,7 +265,7 @@ section {
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
-  height: 65vh;
+  height: auto;
 }
 
 /* The actual timeline (the vertical ruler) */

@@ -58,6 +58,10 @@
     margin-bottom: 0;
   }
 
+  #project {
+    margin-top: 2rem;
+  }
+
   article {
     font-size: 1rem;
   }
@@ -114,18 +118,29 @@
     text-align: justify;
   }
 
+  #about {
+    height: auto;
+  }
+
+  .timeline {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
   .timeline::after {
     left: 31px;
   }
 
   .container {
     width: 100%;
-    padding-left: 70px;
-    padding-right: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
   }
 
   .container::before {
-    left: 60px;
+    left: 5px;
     border: medium solid white;
     border-width: 10px 10px 10px 0;
     border-color: transparent white transparent transparent;
