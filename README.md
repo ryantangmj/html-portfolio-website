@@ -1,6 +1,6 @@
 # My Portfolio
 
-This is a simple portfolio website built with plain vanilla HTML and CSS. It showcases information about me, my education, experiences, and provides a contact section.
+This is a simple portfolio website built with plain vanilla HTML and CSS. It showcases information about me, my education, and experiences, and provides a contact section.
 
 ## Table of Contents
 
@@ -10,11 +10,11 @@ This is a simple portfolio website built with plain vanilla HTML and CSS. It sho
 
 ## About Me
 
-The about me section introduces who I am and provides a brief overview of my background, skills, and interests.
+The about me section introduces who I am.
 
 ## Education and Experiences
 
-The timeline section outlines my educational journey and professional experiences. It highlights key milestones and achievements throughout my academic and professional career.
+The timeline section outlines my educational journey and professional experiences. It highlights key milestones throughout my academic and professional career.
 
 ## Contact Me
 
@@ -25,16 +25,10 @@ The contact me section provides ways to get in touch with me. It includes my ema
 - HTML
 - CSS
 
-## Screenshots
 
-[Include screenshots or GIFs of your website here]
+## View the website
+https://ryantangmj.github.io/html-portfolio-website/
 
-## How to Run
-
-1. Clone the repository.
-2. Open the `index.html` file in a web browser.
-
-Feel free to explore the code and use it as a template for your own portfolio.
 
 ## License
 
