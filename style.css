@@ -252,25 +252,14 @@ section {
 }
 
 .timeline-container {
-  height: 70vh;
-  border: 5px black;
-  overflow: scroll;
-}
-
-.timeline-container::-webkit-scrollbar {
-  width: 8px; /* Set the width of the scrollbar */
-}
-
-.timeline-container::-webkit-scrollbar-thumb {
-  background-color: #888; 
-  border-radius: 10px;
+  height: 75vh;
+  overflow-y: scroll;
 }
 
 .timeline {
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
-  overflow: scroll;
 }
 
 /* The actual timeline (the vertical ruler) */
