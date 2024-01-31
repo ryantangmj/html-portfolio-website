@@ -251,11 +251,21 @@ section {
   box-sizing: border-box;
 }
 
+.timeline-container {
+  height: 70vh;
+  border: 5px black;
+  overflow: scroll;
+}
+
+.timeline-container:hover {
+  cursor: grabbing;
+}
+
 .timeline {
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
-  overflow: hidden;
+  overflow: scroll;
 }
 
 /* The actual timeline (the vertical ruler) */
@@ -381,7 +391,7 @@ section {
 }
 
 #projects .section_text_p1 {
-  margin-top: 60px;
+  margin-top: 40px;
 }
 
 .experience-details-container {
